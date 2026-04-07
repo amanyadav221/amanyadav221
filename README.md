@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Aman Yadav!
+### Full-Stack Developer | Java & React Enthusiast
 
-<!--
-**amanyadav221/amanyadav221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Full-Stack Developer** focused on building scalable web applications. I love exploring new technologies and solving complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Backend:** Java, Spring Boot, MySQL
+- **Frontend:** React.js, JavaScript, HTML5, CSS3
+- **Tools:** Git, GitHub, Postman
+
+### 🚀 Featured Projects
+- **[E-Commerce-React](https://github.com/amanyadav221/E-Commerce-React):** A responsive E-commerce frontend.
+- **[E-Learning App](https://github.com/amanyadav221/E-Learning):** Online learning platform using Java/JSP.
+
+### 📫 Connect with me:
+[LinkedIn](Aapka-LinkedIn-URL) | [Email](mailto:yadavaman6940@gmail.com)
+
+---
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanyadav221&show_icons=true&theme=radical)
