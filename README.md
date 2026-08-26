@@ -199,7 +199,7 @@ Actively contributing across multiple production repositories, working on UI dev
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=amanyadav221&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=E9D5FF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanyadav221&theme=radical&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=E9D5FF" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=amanyadav221&theme=radical&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=E9D5FF" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyadav221&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=E9D5FF" width="60%" />
 
