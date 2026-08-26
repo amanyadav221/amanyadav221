@@ -8,8 +8,8 @@
 
 ![Location](https://img.shields.io/badge/Location-India-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-yadav-3aa707309/)
+[![Email](https://img.shields.io/badge/Email-Contact-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavaman6940@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-6b21a8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanyadav221)
 
 <br/>
@@ -185,7 +185,7 @@ Actively contributing across multiple production repositories, working on UI dev
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aman_yadav4149/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6d28d9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8b5cf6?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-a78bfa?style=for-the-badge&logo=codechef&logoColor=white)](#)
@@ -252,8 +252,8 @@ Open To:    Full-Stack / Java Backend Engineering opportunities
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavaman6940@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-yadav-3aa707309/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanyadav221)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
